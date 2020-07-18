@@ -1,7 +1,7 @@
 // DEPENDENCIES
 const router = require("express").Router(); // Express Routers
 const { findById, validateNote, createNewNote } = require("../../lib/notes"); // GET/POST functions
-const notes = require("../../db/db"); // json housing data
+const notes = require("../../db/db.json"); // json housing data
 const fs = require("fs");
 const path = require("path");
 const shortid = require('shortid');
