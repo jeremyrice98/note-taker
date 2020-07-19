@@ -57,6 +57,8 @@ This has been deployed with Heroku.   Navigate to the application and begin usin
 ![](Images/note.jpeg)
 
 4. Save the note by clicking the save icon in the upper right hand corner.   You can also delete a note by clicking the delete button next to the not on the left-hand side. 
+![](Images/saved.jpeg)
+
   
 ## **QUESTIONS**  
 Please contact me for any inquiries!  
