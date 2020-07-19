@@ -31,16 +31,16 @@ This has been deployed with Heroku.   Navigate to the application and begin usin
 ## **CONTRIBUTING**  
 > 1. [Node.js](node.js) 
 > 2. [Node Package Manager](npmjs.com)
-    - [Inquirer]()
-    - File System (fs)
-    - Path
-    - Express
-    - shortid
-> 3. Javascript
-> 4. jQuery
-> 5. Insomnia
-> 6. JSON
-> 7. HTML   
+ >  - [Inquirer]https://www.npmjs.com/package/inquirer)
+ >  - [File System (fs)](https://nodejs.org/api/fs.html) 
+ >  - [Path](https://www.npmjs.com/package/path)
+ >  - [Express](https://www.npmjs.com/package/express)
+ >  - [shortid](https://www.npmjs.com/package/shortid)
+> 3. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+> 4. [jQuery](https://jquery.com/)
+> 5. [Insomnia](https://support.insomnia.rest/article/11-getting-started)
+> 6. [JSON](https://www.json.org/json-en.html)
+ 
   
 ## **TESTS**  
 > While developing, Insomnia was used to test routes.   
