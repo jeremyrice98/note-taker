@@ -31,11 +31,11 @@ This has been deployed with Heroku.   Navigate to the application and begin usin
 ## **CONTRIBUTING**  
 > 1. [Node.js](node.js) 
 > 2. [Node Package Manager](npmjs.com)
-    * [Inquirer]()
-    * File System (fs)
-    * Path
-    * Express
-    * shortid
+    - [Inquirer]()
+    - File System (fs)
+    - Path
+    - Express
+    - shortid
 > 3. Javascript
 > 4. jQuery
 > 5. Insomnia
