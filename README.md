@@ -48,13 +48,13 @@ This has been deployed with Heroku.   Navigate to the application and begin usin
 ## **FUNCTIONALITY**
 
 1. In a browser, navigate to the [application](http://desolate-ravine-23905.herokuapp.com/)
-![](assets/images/start.jpeg)
+![](images/start.jpeg)
 
 2. Click the "get started" button to begin utilizing the applicaiton. Note that your previous notes should appear on the left hand side of the page.
-![](assets/images/saved.jpeg)
+![](images/saved.jpeg)
 
 3. Add a new note by clicking on the pen icon in the upper right hand corner of the page.   You can also click on "Note Title" and begin typing.  This also applies to the body of the Note.  
-![](assets/images/note.jpeg)
+![](images/note.jpeg)
 
 4. Save the note by clicking the save icon in the upper right hand corner.   You can also delete a note by clicking the delete button next to the not on the left-hand side. 
   
