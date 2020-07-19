@@ -29,13 +29,13 @@ This has been deployed with Heroku.   Navigate to the application and begin usin
 > This application is covered under the MIT license.
   
 ## **CONTRIBUTING**  
-> 1. Node.js 
-> 2. Node Package Manager
-    Inquirer
-    File System (fs)
-    Path
-    Express
-    shortid
+> 1. [Node.js](node.js) 
+> 2. [Node Package Manager](npmjs.com)
+    * [Inquirer]()
+    * File System (fs)
+    * Path
+    * Express
+    * shortid
 > 3. Javascript
 > 4. jQuery
 > 5. Insomnia
